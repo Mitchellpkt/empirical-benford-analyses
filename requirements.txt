@@ -3,3 +3,5 @@ plotly
 matplotlib
 pandas
 regex
+datetime
+math
